@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="hero-bg-top.svg"
+   id="svg36"
+   version="1.1"
+   height="318"
+   width="1440">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g34"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="159"
+     inkscape:cx="481.28933"
+     inkscape:zoom="0.90486111"
+     showgrid="false"
+     id="namedview38"
+     inkscape:window-height="1080"
+     inkscape:window-width="2560"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs26">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.855542,0.5389261)"
+       id="a"
+       y2="207.97868"
+       x2="21.06085"
+       y1="-395.99436"
+       x1="61.645304">
+      <stop
+         id="stop2"
+         offset="0%"
+         stop-opacity="0"
+         stop-color="#FFF" />
+      <stop
+         id="stop4"
+         offset="100%"
+         stop-color="#FF6C50" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.0706969,0.806828,-0.44889532,-0.59570422,1660.6708,149.73538)"
+       id="c"
+       y2="537.14831"
+       x2="211.60582"
+       y1="164.19707"
+       x1="211.60582">
+      <stop
+         id="stop7"
+         offset="0%"
+         stop-opacity="0"
+         stop-color="#606483" />
+      <stop
+         id="stop9"
+         offset="100%"
+         stop-opacity=".72"
+         stop-color="#0B0D19" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.1528424,1.1132869,-0.43344644,-0.44884693,1741.3072,-61.141327)"
+       id="d"
+       y2="385.6382"
+       x2="212.23119"
+       y1="231.29293"
+       x1="232.99564">
+      <stop
+         id="stop12"
+         offset="0%"
+         stop-opacity=".32"
+         stop-color="#0B0D19" />
+      <stop
+         id="stop14"
+         offset="100%"
+         stop-opacity="0"
+         stop-color="#0B0D19" />
+    </linearGradient>
+    <filter
+       id="b">
+      <feTurbulence
+         id="feTurbulence17"
+         result="turb"
+         baseFrequency=".3"
+         numOctaves="2"
+         type="fractalNoise" />
+      <feComposite
+         id="feComposite19"
+         in2="turb"
+         result="result1"
+         k4=".1"
+         k3=".1"
+         k2=".1"
+         k1=".1"
+         operator="arithmetic"
+         in="turb" />
+      <feComposite
+         id="feComposite21"
+         result="finalFilter"
+         in2="SourceGraphic"
+         in="result1"
+         operator="in" />
+      <feBlend
+         id="feBlend23"
+         in2="SourceGraphic"
+         in="finalFilter"
+         mode="multiply" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-78)"
+     id="g34"
+     fill-rule="evenodd"
+     fill="none">
+    <path
+       style="fill:url(#a)"
+       id="path28"
+       filter="url(#b)"
+       fill="url(#a)"
+       transform="translate(1051)"
+       d="M 88.494,90 C 155.534,97.177 249.588,65.247 313.49,0 H 0.2 c 25.3,48.079 42.361,85.083 88.294,90 z" />
+    <path
+       style="fill:url(#c)"
+       id="path30"
+       fill="url(#c)"
+       d="M 1239.4917,6.9929922 C 1088.8244,-24.674967 1076.6617,261.53159 1106.5755,301.22857 c 29.9132,39.69617 143.5539,4.51664 253.8223,-78.57656 C 1470.6662,139.5588 1535.8065,40.017232 1505.8933,0.3210537 1475.9795,-39.375923 1390.1584,38.660153 1239.4917,6.9929922 Z" />
+    <path
+       style="fill:url(#d)"
+       id="path32"
+       fill="url(#d)"
+       d="m 1294.7437,13.970634 c -85.8476,37.820525 -94.8227,126.378976 -73.3654,148.598666 21.4566,22.21896 89.0924,-8.28507 151.0685,-68.134751 61.9755,-59.84899 94.8228,-126.378978 73.3648,-148.599385 -21.4566,-22.218967 -65.2216,30.314918 -151.0679,68.13547 z" />
+  </g>
+</svg>
